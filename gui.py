@@ -1,4 +1,4 @@
-"""CSC111 Winter 2023 Course Project: Stockify
+"""CSC111 Winter 2023 Course Project: InvestWise
 
 This file contains functions and classes for an interactive user interface.
 
@@ -9,7 +9,7 @@ This file is provided solely for the personal and private use of the Computer Sc
 University of Toronto St. George campus. All forms of distribution of this code, whether as given or with any changes,
 are expressly prohibited. For more information on copyright for CSC111 materials, please consult our Course Syllabus.
 
-This file is Copyright (c) 2023 Mahe Chen, Aarya Bhardawaj, Matthew Yu, and Daniel Cheng.
+This file is Copyright (c) 2023 Matthew Yu.
 """
 from __future__ import annotations
 from load_objects import *
