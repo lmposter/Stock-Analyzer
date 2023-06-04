@@ -1,15 +1,15 @@
 """CSC111 Winter 2023 Course Project: Stockify
 
-This file contains the functions and classes to classify our data into stocks.
+This file contains the functions and classes to organize our data into data classes.
 
 Copyright and Usage Information
 ===============================
 
-This file is provided solely for the personal and private use of the Computer Science Departmentat the
+This file is provided solely for the personal and private use of the Computer Science Department at the
 University of Toronto St. George campus. All forms of distribution of this code, whether as given or with any changes,
-are expressly prohibited. For more information on copyright for CSC111 materials, please consult our Course Syllabus.
+are expressly prohibited.
 
-This file is Copyright (c) 2023 Mahe Chen, Aarya Bhardawaj, Matthew Yu, and Daniel Cheng.
+This file is Copyright (c) 2023 Daniel Cheng.
 """
 from __future__ import annotations
 from typing import Optional
