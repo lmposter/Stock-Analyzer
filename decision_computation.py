@@ -1,6 +1,6 @@
 """CSC111 Winter 2023 Course Project: InvestWise
 
-This file contains the functions and classes to create our decision tree.
+This file contains the functions and classes for a decision tree.
 
 Copyright and Usage Information
 ===============================
