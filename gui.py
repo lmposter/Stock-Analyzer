@@ -7,7 +7,7 @@ Copyright and Usage Information
 
 This file is provided solely for the personal and private use of the Computer Science Departmentat the
 University of Toronto St. George campus. All forms of distribution of this code, whether as given or with any changes,
-are expressly prohibited. For more information on copyright for CSC111 materials, please consult our Course Syllabus.
+are expressly prohibited.
 
 This file is Copyright (c) 2023 Matthew Yu.
 """
