@@ -1,26 +1,26 @@
-"""CSC111 Winter 2023 Course Project: Stockify
+"""CSC111 Winter 2023 Course Project: InvestWise
 
-This file is where the program runs.
+Run this file to start our program.
 
 Copyright and Usage Information
 ===============================
 
-This file is provided solely for the personal and private use of the Computer Science Departmentat the
+This file is provided solely for the personal and private use of the Computer Science Department at the
 University of Toronto St. George campus. All forms of distribution of this code, whether as given or with any changes,
-are expressly prohibited. For more information on copyright for CSC111 materials, please consult our Course Syllabus.
+are expressly prohibited.
 
-This file is Copyright (c) 2023 Mahe Chen, Aarya Bhardawaj, Matthew Yu, and Daniel Cheng.
+This file is Copyright (c) 2023 Aarya Bhardawaj.
 """
 import gui
 
 
-def open_stockify() -> None:
+def run_InvestWise() -> None:
     """Run the program"""
     gui.run_program()
 
 
 if __name__ == '__main__':
-    open_stockify()
+    run_InvestWise()
     import doctest
     doctest.testmod(verbose=True)
     import python_ta
