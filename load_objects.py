@@ -1,12 +1,13 @@
-""""
-CSC111 Winter 2022 Project: Stockify - Stock Recommender
+"""CSC111 Winter 2023 Course Project: InvestWise
 
-This python module contains the functions necessary to load our decision tree with data from our dataset files.
+This file contains the functions for loading our datasets into our Decision Tree.
 
 Copyright and Usage Information
 ===============================
-This file is provided solely for the personal and private use. All forms of distribution of this code, whether as given
-or with any changes, are expressly prohibited.
+
+This file is provided solely for the personal and private use of the Computer Science Department at the
+University of Toronto St. George campus. All forms of distribution of this code, whether as given or with any changes,
+are expressly prohibited.
 
 This file is Copyright (c) 2023 Aarya Bhardawaj and Daniel Cheng.
 """
