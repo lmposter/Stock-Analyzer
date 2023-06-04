@@ -8,7 +8,7 @@ Copyright and Usage Information
 This file is provided solely for the personal and private use. All forms of distribution of this code, whether as given
 or with any changes, are expressly prohibited.
 
-This file is Copyright (c) 2023 Matthew Yu, Mahe Chen, Aarya Bhardawaj and Daniel Cheng
+This file is Copyright (c) 2023 Aarya Bhardawaj and Daniel Cheng.
 """
 from decision_computation import DecisionTree
 from rw_csv import *
