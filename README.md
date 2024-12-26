@@ -1,7 +1,7 @@
-# InvestWise
+# Stock Analyzer
 
 ## Description:
-The InvestWise APP is a Python-based application designed to assist users in making informed investment decisions in the stock market. The project leverages a dataset of stock information obtained from Yahoo Finance and utilizes various algorithms to compute scores for each stock based on factors such as value, growth, quality, consistency, risk, ESG (Environmental, Social, and Governance), and dividend. These scores are then used to recommend optimal stocks to users based on their preferences.
+The Stock Analyzer is a Python-based application designed to assist users in making informed investment decisions in the stock market. The project leverages a dataset of stock information obtained from Yahoo Finance and utilizes various algorithms to compute scores for each stock based on factors such as value, growth, quality, consistency, risk, ESG (Environmental, Social, and Governance), and dividend. These scores are then used to recommend optimal stocks to users based on their preferences.
 
 The project consists of several components, including data acquisition and wrangling, data computation using decision trees, and data visualization through a graphical user interface (GUI). The data acquisition process involves web scraping stock information from Yahoo Finance and storing it in a CSV file. The computed scores are based on industry-standard formulas sourced from reputable financial sources like Investopedia and The Motley Fool.
 
